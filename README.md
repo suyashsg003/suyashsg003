@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Suyash Gupta</h1>
+<h1 align="center">👋 Hi, I'm Suyash Goyal</h1>
 <p align="center">
   <a href="https://www.instagram.com/suyash_s.g_003/"><img src="https://img.shields.io/badge/Instagram-%40suyash_s.g_003-ff69b4?style=flat-square&logo=instagram"></a>
 </p>
