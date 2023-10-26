@@ -16,7 +16,7 @@ I'm a web development enthusiast currently studying C++ at Amity University. I'm
 
 Here are some of my notable projects:
 
-1. [Project 1](#) - [Add a short project description here]
+1. [Project 1](#) - [WEB GAMING PORTFOLIO]
    [![Project 1](https://placeimg.com/400/200/tech)](https://github.com/suyashsg003/project-1)
 
 2. [Project 2](#) - [45-DAYS-OF-CODE-2K23]
