@@ -20,6 +20,8 @@ Here are some of my notable projects:
 
 2. [Project 2](#) - [45-DAYS-OF-CODE-2K23]; on going..
 
+## Skills
+
 - Web Development
 - C,C++,Python programming 
 - HTML, CSS, JavaScript(on work)
