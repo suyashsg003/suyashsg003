@@ -10,7 +10,6 @@ I'm a web development enthusiast currently studying C++ at Amity University. I'm
 - 🔭 I'm currently working on [45-DAYS-OF-CODE](#) - [A 45 days daily coding task which is done using C++]
 - 🌱 I'm learning C++ and constantly improving my web development skills.
 - 🤝 I'm looking to collaborate on web development projects or anything interesting which helps me to learn.
-- 📫 You can contact me by visiting to my instagram-[(https://www.instagram.com/suyash_s.g_003/).
 
 ## Portfolio
 
