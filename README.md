@@ -16,18 +16,15 @@ I'm a web development enthusiast currently studying C++ at Amity University. I'm
 
 Here are some of my notable projects:
 
-1. [Project 1](#) - [WEB GAMING PORTFOLIO]
-
-2. [Project 2](#) - [45-DAYS-OF-CODE-2K23]; on going..
+1. [Project 1](#) - [45-DAYS-OF-CODE-2K23];
 
 ## Skills
 
-- Web Development
-- C,C++,Python programming 
-- HTML, CSS, JavaScript(on work)
+- C,C++,Python programming, java programming. 
+- HTML\CSS, JavaScript, react.js.
 
 ## Get In Touch
 
-📫 Feel free to connect with me on (https://www.instagram.com/suyash_s.g_003/). I'd love to chat with you!
+📫 Feel free to connect with me on (www.linkedin.com/in/suyash-goyal-64b49b273). I'd love to help you!
 
 Thanks for visiting my GitHub profile. Have a great day buddy! 😄
