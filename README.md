@@ -11,7 +11,7 @@ I'm a web development enthusiast currently studying C++ at Amity University. I'm
 - 🌱 I'm learning C++ and constantly improving my web development skills.
 - 🤝 I'm looking to collaborate on web development projects or anything interesting which helps me to learn.
 
-## Portfolio
+## Projects
 
 Here are some of my notable projects:
 
