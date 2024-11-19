@@ -27,8 +27,9 @@ Here are some of my notable repositories:
 
 ## Skills
 
-- Programming: **C, C++, Python, Java**.
+- Programming: **C, C++, Python, Java, SQL**.
 - Web Development: **HTML, CSS, JavaScript, React.js**.
+- APP DEVELOPMENT: **flutter/dart**.
 
 ## Get In Touch
 
