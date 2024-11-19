@@ -14,7 +14,7 @@
 I'm a **CSE student** at **Amity University**, passionate about **coding**, **web development**, and exploring **new technologies**.
 
 - 🔭 I'm currently working on [45-DAYS-OF-CODE-2K24](https://github.com/suyashgoyal003/45-DAYS-OF-CODE-2K24) - A 45-day daily coding challenge.
-- 🌱 Currently sharpening my skills in **Java**, **Web Development** and **DSA**.
+- 🌱 Currently sharpening my skills in **Java programming**, **Database management**, **Web Development** and **DSA/C++**.
 - 🤝 I'm open to collaborating on any exciting **coding projects** that help me learn and grow.
 
 ## Projects
