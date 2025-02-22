@@ -8,11 +8,13 @@
 
 <br/>
 
-- 🔭 I’m currently working on **"to be declare."**
+- 🔭 I’m currently working on **"Web devellopment."**
 
-- 🌱 Currently sharpening my skills in **"C/C++, java, Database Management(MYSQL,MongoDB), Web Development(FULL STACK/MERN STACK), Data Structures, Cyber Security"**.
+- 🌱 My top skills in **"C/C++, Web Development(FULL STACK/MERN STACK), DSA."**
 
 - 🤝 Open to collaborating on **"Interactive Projects"** to learn and grow.
+
+- 📫 Mail me - **suyashs.g2004@gmail.com**
 
 - 📄 Know about my experiences: **[Resume](https://shorturl.at/Yg658)**
 
@@ -25,6 +27,12 @@
 <a href="https://www.linkedin.com/in/suyash-goyal-64b49b273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suyash_s.g_003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/suyashsg003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/suyashsg003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suyashsg003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suyashs_g2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suyashs_g2004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/suyashgoyal003" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30px" style="vertical-align: middle; border-radius: 10;">
+</a>
+
 
 </p>
 
@@ -49,7 +57,6 @@
 <a href="https://leetcode.com/u/suyashsg003/" rel="nofollow">LeetCode</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/yourprofile" rel="nofollow">GeeksForGeeks</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/yourprofile" rel="nofollow">HackerRank</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/suyashgoyalsg" rel="nofollow">CodeStudio</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codolio.io/yourpro" rel="nofollow">Codolio</a>🏆
 </p>
 
