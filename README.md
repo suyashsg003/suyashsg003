@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" />
+<p align="center">
+    <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" style="display: block; margin: auto; border-radius: 10px;">
+</p>
 
 <br/>
 <h1 align="center">Hi 👋, I'm Suyash Goyal</h1>
@@ -6,11 +8,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on **to be declare.**
+- 🔭 I’m currently working on **"to be declare."**
 
-- 🌱 Currently sharpening my skills in **C/C++/JAVA Database Management(MYSQL,MongoDB), Web Development(FULL STACK/MERN STACK), Data Structures, Cyber Security**.
+- 🌱 Currently sharpening my skills in **"C/C++/JAVA Database Management(MYSQL,MongoDB), Web Development(FULL STACK/MERN STACK), Data Structures, Cyber Security"**.
 
-- 🤝 Open to collaborating on **Interactive Projects** to learn and grow.
+- 🤝 Open to collaborating on **"Interactive Projects"** to learn and grow.
 
 - 📄 Know about my experiences: **[Resume](https://shorturl.at/Yg658)**
 
@@ -23,8 +25,7 @@
 <a href="https://www.linkedin.com/in/suyash-goyal-64b49b273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suyash_s.g_003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/suyashsg003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="Coding Ninjas" height="30" width="40" /></a>
-<a href="https://codolio.io/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codolio.svg" alt="Codolio" height="30" width="40" /></a>
+
 </p>
 
 <br/>
@@ -48,16 +49,8 @@
 <a href="https://leetcode.com/u/suyashsg003/" rel="nofollow">LeetCode</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/yourprofile" rel="nofollow">GeeksForGeeks</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/yourprofile" rel="nofollow">HackerRank</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/yourprofile" rel="nofollow">CodeStudio</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codolio.io/yourprofile" rel="nofollow">Codolio</a>🏆
-</p>
-
-<br/>
-<hr>
-
-<h3>Badges:</h3>
-<p align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api/badges?username=suyashsg003&theme=light&animated=true&border=border" alt="LeetCode Badges" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/suyashgoyalsg" rel="nofollow">CodeStudio</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codolio.io/yourpro" rel="nofollow">Codolio</a>🏆
 </p>
 
 <br/>
@@ -70,5 +63,12 @@
                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsg003&show_icons=true&theme=dracula&locale=en&layout=compact" alt="suyashsg003" /> 
                 </th>
                 <th>
-
-::contentReference[oaicite:0]{index=0}
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashsg003&theme=dracula&" alt="suyashsg003" />
+                </th>
+            </tr>
+      </thead>
+</table>
+<br/>
+<hr>
+<br/>
+<p align="center">🌟 'Code is like humor. When you have to explain it, it’s bad.' — Cory House</p>
