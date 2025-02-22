@@ -6,11 +6,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on **[45-DAYS-OF-CODE-2K24](https://github.com/suyashgoyal003/45-DAYS-OF-CODE-2K24)** - A 45-day daily coding challenge.
+- 🔭 I’m currently working on **to be declare.**
 
-- 🌱 Currently sharpening my skills in **Java, Database Management, Web Development, and DSA/C++**.
+- 🌱 Currently sharpening my skills in **C/C++/JAVA Database Management(MYSQL,MongoDB), Web Development(FULL STACK/MERN STACK), Data Structures, Cyber Security**.
 
-- 🤝 Open to collaborating on **exciting coding projects** to learn and grow.
+- 🤝 Open to collaborating on **Interactive Projects** to learn and grow.
 
 - 📄 Know about my experiences: **[Resume](https://shorturl.at/Yg658)**
 
@@ -20,30 +20,44 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suyash-goyal-64b49b273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suyash Goyal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/suyash_s.g_003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suyash_s.g_003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suyash-goyal-64b49b273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suyash_s.g_003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/suyashsg003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="Coding Ninjas" height="30" width="40" /></a>
+<a href="https://codolio.io/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codolio.svg" alt="Codolio" height="30" width="40" /></a>
 </p>
 
 <br/>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  &nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
 <br/>
 <hr>
 
-<h3> Profile on Coding Platforms: </h3>
+<h3>Profile on Coding Platforms:</h3>
 <p align="center">
-<a href="https://leetcode.com/suyashsg003/" rel="nofollow">Leetcode</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/suyashsg003/" rel="nofollow">GeeksForGeeks</a>🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/suyashsg003" rel="nofollow">Hackerrank</a>🏆
+<a href="https://leetcode.com/u/suyashsg003/" rel="nofollow">LeetCode</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/yourprofile" rel="nofollow">GeeksForGeeks</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/yourprofile" rel="nofollow">HackerRank</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/yourprofile" rel="nofollow">CodeStudio</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codolio.io/yourprofile" rel="nofollow">Codolio</a>🏆
+</p>
+
+<br/>
+<hr>
+
+<h3>Badges:</h3>
+<p align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api/badges?username=suyashsg003&theme=light&animated=true&border=border" alt="LeetCode Badges" />
 </p>
 
 <br/>
@@ -56,12 +70,5 @@
                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsg003&show_icons=true&theme=dracula&locale=en&layout=compact" alt="suyashsg003" /> 
                 </th>
                 <th>
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashsg003&theme=dracula&" alt="suyashsg003" />
-                </th>
-            </tr>
-      </thead>
-</table>
-<br/>
-<hr>
-<br/>
-<p align="center">🌟 'Code is like humor. When you have to explain it, it’s bad.' — Cory House</p>
+
+::contentReference[oaicite:0]{index=0}
