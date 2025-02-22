@@ -56,8 +56,10 @@
 <p align="center">
 <a href="https://leetcode.com/u/suyashsg003/" rel="nofollow">LeetCode</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/yourprofile" rel="nofollow">GeeksForGeeks</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/yourprofile" rel="nofollow">HackerRank</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codolio.io/yourpro" rel="nofollow">Codolio</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/suyashs_g2004" rel="nofollow">HackerRank</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codolio.io/suyashsg003" rel="nofollow">Codolio</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/suyashgoyal003" rel="nofollow">CodeChef</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/suyashgoyalsg" rel="nofollow">Coding Ninjas</a>🏆
 </p>
 
 <br/>
