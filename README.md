@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **"to be declare."**
 
-- 🌱 Currently sharpening my skills in **"C/C++/JAVA Database Management(MYSQL,MongoDB), Web Development(FULL STACK/MERN STACK), Data Structures, Cyber Security"**.
+- 🌱 Currently sharpening my skills in **"C/C++, java, Database Management(MYSQL,MongoDB), Web Development(FULL STACK/MERN STACK), Data Structures, Cyber Security"**.
 
 - 🤝 Open to collaborating on **"Interactive Projects"** to learn and grow.
 
