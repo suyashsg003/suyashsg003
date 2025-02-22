@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **"Web devellopment."**
 
-- 🌱 My top skills in **"C/C++, Web Development(FULL STACK/MERN STACK), DSA."**
+- 🌱 My top skills in **"C/C++,Java, WEB DEV.(FULL STACK/MERN STACK), DSA."**
 
 - 🤝 Open to collaborating on **"Interactive Projects"** to learn and grow.
 
