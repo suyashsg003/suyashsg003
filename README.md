@@ -41,9 +41,9 @@
 
 <h3> Profile on Coding Platforms: </h3>
 <p align="center">
-<a href="https://leetcode.com/suyashgoyal003/" rel="nofollow">Leetcode</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/suyashgoyal003/" rel="nofollow">GeeksForGeeks</a>🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/suyashgoyal003" rel="nofollow">Hackerrank</a>🏆
+<a href="https://leetcode.com/suyashsg003/" rel="nofollow">Leetcode</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/suyashsg003/" rel="nofollow">GeeksForGeeks</a>🏆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/suyashsg003" rel="nofollow">Hackerrank</a>🏆
 </p>
 
 <br/>
@@ -53,10 +53,10 @@
       <thead>
             <tr>
                   <th>
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashgoyal003&show_icons=true&theme=dracula&locale=en&layout=compact" alt="suyashgoyal003" /> 
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsg003&show_icons=true&theme=dracula&locale=en&layout=compact" alt="suyashsg003" /> 
                 </th>
                 <th>
-                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashgoyal003&theme=dracula&" alt="suyashgoyal003" />
+                    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashsg003&theme=dracula&" alt="suyashsg003" />
                 </th>
             </tr>
       </thead>
