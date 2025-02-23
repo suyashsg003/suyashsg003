@@ -15,7 +15,7 @@
 
 - 📫 Mail me - **suyashs.g2004@gmail.com**
 
-- 📄 Know about my experiences: **[Resume](https://shorturl.at/Yg658)**
+- 📄 Know about my experiences: **[Resume]()**
 
 - ⚡ Fun fact: **I code faster than I reply to texts!**
 
