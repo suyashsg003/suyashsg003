@@ -55,7 +55,7 @@
       <thead>
             <tr>
                   <th>
-                    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsg003&show_icons=true&theme=dracula&locale=en&layout=compact" alt="suyashsg003" /> 
+                    <img align="left" src="https://gh-stats-rho.vercel.app/api/top-langs?username=suyashsg003&show_icons=true&theme=dracula&locale=en&layout=compact" alt="suyashsg003" />
                 </th>
                 <th>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashsg003&theme=dracula" alt="suyashsg003" />
